@@ -71,13 +71,21 @@ MIT Open Source. Hosting on Github.
 
 ## * 6\. Game Characters
    * 6.1 Incident Commander
+      * 6.1.1 This character can ??? *Recommendation: they can do some shared activities as the others can do (move, answer questions, treat patients?), but they have access to an indicator that shows #of beds available, #of patients in green/red, #of patients needing immediate attention, can send doctors/nurses to different zones. I need JJ to provide me with more context on each of the roles.*
    * 6.2 Clinical Lead
+      * 6.2.1 This character can ??? *Recommendation: they can do some shared activities as the others can do, but they have access to an indicator that shows #of patients in green/red, #of patients needing immediate attention, can send doctors/nurses to different zones??.*
    * 6.3 Resource Lead
+      * 6.3.1 This character can ???? *Recommendation: they can do some shared activities as the others can do, but they have access to an indicator that shows #of beds, # of different equipment, ??.*
    * 6.4 Triage Officer (says if a patient is walking or non-walking)
+      * 6.4.1 Decide whether to direct new patient to red or green zone. Anything else?
    * 6.5 Red Zone #1 Emergency Responder
+      * 6.5.1 This character can ??? *Recommendation: they can do some shared activities as the others can do, but they have access to an indicator that shows #of patients in red, #of patients needing immediate attention, can send someone to the green zone??.*
    * 6.6 Red Zone #2 Emergency Responder (team, minimum 2 players)
+      * 6.6.1 This character can ??? *Recommendation: they can do the same as Red Zone #1 but when they work together successfully, they earn some type of bonus together.   
    * 6.7 Green Zone #1 Emergency Responder
+      * 6.7.1 This character can ???? *Recommendation: they can do some shared activities as the others can do, but they have access to an indicator that shows #of patients in green, #of patients needing immediate attention, can send someone to the red zone??.
    * 6.8 Green Zone #2 Emergency Responder (team, minimum 2 players)
+      * 6.8.1 This character can ??? *Recommendation: they can do the same as Green Zone #1 but when they work together successfully, they earn some type of bonus together. 
 
 Any character may be a player or NPC (Non-Playable Character, a bot). The game may play entirely against itself using AI to create hospital simulations. All players/NPCs have avatars.
 
